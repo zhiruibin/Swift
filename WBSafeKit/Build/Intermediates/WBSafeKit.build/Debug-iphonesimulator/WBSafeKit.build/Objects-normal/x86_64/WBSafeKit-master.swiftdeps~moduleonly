@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "04f9010ddb2f421546c47be22865047f"
+build_time: [1611906271, 379697000]
+inputs:
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/ViewController.swift": [1607570807, 147795639]
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/AppDelegate.swift": [1606471211, 96160983]
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/SceneDelegate.swift": [1606471211, 112272749]
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/WBSafeArray.swift": [1606718645, 971813613]
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/WBSafeKit.swift": [1607408874, 735500201]
+  "/Users/a58/Documents/\u62DB\u624D\u732B\u5DE5\u7A0B/WBSafeKit/WBSafeKit/WBSafeKit/WBSafeString.swift": [1606728467, 825180513]

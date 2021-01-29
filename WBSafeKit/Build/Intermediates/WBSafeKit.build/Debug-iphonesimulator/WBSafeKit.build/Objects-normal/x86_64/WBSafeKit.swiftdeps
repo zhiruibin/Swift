@@ -1,0 +1,185 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "~"
+- "~"
+- "~"
+- "~"
+- "~"
+- "WBSafeInt"
+- "WBSafeRange"
+- "WBSafeStringIndexDistance"
+- "WBSafeStringIndex"
+provides-nominal:
+- "9WBSafeKit0A3IntV"
+- "9WBSafeKit0A5RangeV"
+- "9WBSafeKit0A19StringIndexDistanceV"
+- "9WBSafeKit0A11StringIndexV"
+provides-member:
+- ["9WBSafeKit0A3IntV", ""]
+- ["9WBSafeKit0A5RangeV", ""]
+- ["9WBSafeKit0A19StringIndexDistanceV", ""]
+- ["9WBSafeKit0A11StringIndexV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CountableClosedRange"
+- "Int"
+- "Range"
+- "String"
+- "WBSafeInt"
+- "WBSafeRange"
+- "WBSafeStringIndex"
+- "WBSafeStringIndexDistance"
+- "~"
+depends-member:
+- ["SK", "Index"]
+- ["SK", "IndexDistance"]
+- !private ["SK", "init"]
+- ["s7CVarArgP", "Index"]
+- ["s7CVarArgP", "IndexDistance"]
+- ["Sl", "Index"]
+- ["Sl", "IndexDistance"]
+- !private ["Sl", "init"]
+- ["SL", "Index"]
+- ["SL", "IndexDistance"]
+- ["s28CustomDebugStringConvertibleP", "Index"]
+- ["s28CustomDebugStringConvertibleP", "IndexDistance"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s17CustomReflectableP", "Index"]
+- ["s17CustomReflectableP", "IndexDistance"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "Index"]
+- ["s23CustomStringConvertibleP", "IndexDistance"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["Se", "Index"]
+- ["Se", "IndexDistance"]
+- !private ["Se", "init"]
+- ["SE", "Index"]
+- ["SE", "IndexDistance"]
+- !private ["SE", "init"]
+- ["SQ", "Index"]
+- ["SQ", "IndexDistance"]
+- !private ["SQ", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Index"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "IndexDistance"]
+- ["s32ExpressibleByStringInterpolationP", "Index"]
+- ["s32ExpressibleByStringInterpolationP", "IndexDistance"]
+- ["s26ExpressibleByStringLiteralP", "Index"]
+- ["s26ExpressibleByStringLiteralP", "IndexDistance"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "Index"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "IndexDistance"]
+- ["SH", "Index"]
+- ["SH", "IndexDistance"]
+- !private ["SH", "init"]
+- ["s25LosslessStringConvertibleP", "Index"]
+- ["s25LosslessStringConvertibleP", "IndexDistance"]
+- ["s10MirrorPathP", "Index"]
+- ["s10MirrorPathP", "IndexDistance"]
+- !private ["Sk", "init"]
+- !private ["Sn", "init"]
+- !private ["SX", "init"]
+- ["Sm", "Index"]
+- ["Sm", "IndexDistance"]
+- ["ST", "Index"]
+- ["ST", "IndexDistance"]
+- !private ["ST", "init"]
+- ["SS", "Index"]
+- ["SS", "IndexDistance"]
+- ["Sy", "Index"]
+- ["Sy", "IndexDistance"]
+- ["s16TextOutputStreamP", "Index"]
+- ["s16TextOutputStreamP", "IndexDistance"]
+- ["s20TextOutputStreamableP", "Index"]
+- ["s20TextOutputStreamableP", "IndexDistance"]
+- ["9WBSafeKit0A3IntV", "Int"]
+- ["9WBSafeKit0A3IntV", "index"]
+- ["9WBSafeKit0A3IntV", "init"]
+- ["9WBSafeKit0A5RangeV", "CountableClosedRange"]
+- ["9WBSafeKit0A5RangeV", "Int"]
+- ["9WBSafeKit0A5RangeV", "Range"]
+- ["9WBSafeKit0A5RangeV", "init"]
+- ["9WBSafeKit0A5RangeV", "range"]
+- ["9WBSafeKit0A11StringIndexV", "String"]
+- ["9WBSafeKit0A11StringIndexV", "init"]
+- ["9WBSafeKit0A11StringIndexV", "stringIndex"]
+- ["9WBSafeKit0A19StringIndexDistanceV", "String"]
+- ["9WBSafeKit0A19StringIndexDistanceV", "init"]
+- ["9WBSafeKit0A19StringIndexDistanceV", "stirngIndexDistance"]
+- ["s30_CustomPlaygroundQuickLookableP", "Index"]
+- ["s30_CustomPlaygroundQuickLookableP", "IndexDistance"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Index"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "IndexDistance"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "Index"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "IndexDistance"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Index"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "IndexDistance"]
+- ["s19_HasContiguousBytesP", "Index"]
+- ["s19_HasContiguousBytesP", "IndexDistance"]
+- ["s21_ObjectiveCBridgeableP", "Index"]
+- ["s21_ObjectiveCBridgeableP", "IndexDistance"]
+depends-nominal:
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- "Sm"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "9WBSafeKit0A3IntV"
+- "9WBSafeKit0A5RangeV"
+- "9WBSafeKit0A11StringIndexV"
+- "9WBSafeKit0A19StringIndexDistanceV"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7fd1bccc806819c6d2804863fbc7eceb"
