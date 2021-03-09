@@ -1,11 +1,11 @@
-#SsiftSafeKit
-#功能说明
+功能说明
 
 对常见API进行异常兼容处理，以保证业务逻辑正常执行，目前已对NSArray与NSString常用API进行了处理，详情如下：
 
+![image](https://user-images.githubusercontent.com/4407961/110412141-aa103180-80c6-11eb-898e-561e547e49f2.png)
 
 
-###工具输入、输出
+工具输入、输出
 
 暂无
 
